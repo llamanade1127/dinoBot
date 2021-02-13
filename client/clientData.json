@@ -1,0 +1,9 @@
+{
+    "discordId":{
+        "steamId": 1,
+        "souls": 100000,
+        "boneBox": 1,
+        "bIsSetUp": false,
+        "currentDinos": 0
+    }
+}
